@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Faço *speedrun* de livros de fantasia e procrastino **jogando e estudando** jogos competitivos
